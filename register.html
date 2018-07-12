@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="author" content="Filip Amanović"/>
+    <meta name="description" content="Strana za registraciju korisnika.">
+    <meta name="keywords" content="">
+    <link rel="stylesheet" type="text/css" href="CSS/Style.css"/>
+    <title class="title">Register</title>
+    <link rel="shortcut icon" href="Slike/favicon.ico" type="image/x-icon">
+        
+</head>
+<body>
+    <div class="register">       
+         <table>
+            <tr>
+                <td>Ime i prezime:</td>
+                <td><input type="text" id="tabImePrezime" placeholder="Žika Pavlović" /> </td>
+            </tr>    
+            <tr>
+                <td>Email adresa:</td>
+                <td><input type="text" id="tabEmail" placeholder="zika@gmail.com" /></td>
+            </tr>
+            <tr>
+                <td>Broj telefona:</td>
+                <td><input type="text" id="tabBroj" placeholder="065/555-333" /></td>
+            </tr>
+                    
+            <tr>
+                <td>Pol:</td>
+                <td>
+                    <input type="radio" name="rbPol" id="polM" />Muški<br/>
+                    <input type="radio" name="rbPol" id="polZ" />Ženski
+                </td>
+            </tr>
+            <tr>
+                <td>Korisničko ime:</td>
+                <td><input type="text" id="tabKorIme" placeholder="zika123_" /></td>
+            </tr>   
+            <tr>
+                <td>Password:</td>
+                <td><input type="text" id="tabPass" placeholder="" /></td>
+            </tr>
+            <tr>
+                <td>Taster:</td>
+                <td><input type="button" value="Potvrdi" id="taster"/></td>
+            </tr>
+        </table>       
+    </div>
+    <div id="greske">
+        
+    </div>
+    <script src="http://code.jquery.com/jquery-2.2.4.min.js"
+    integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44="
+    crossorigin="anonymous"></script>
+    <script type="text/javascript" src="JS/js.js"></script>   
+</body> 
+</html>

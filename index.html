@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="author" content="Filip Amanović"/>
+    <meta name="description" content="Sajt koji vam može dati ideju za vašu sledeću destinaciju.">
+    <meta name="keywords" content="Gde otputovati, putovanje, odmor">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" 
+    integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" 
+    crossorigin="anonymous">
+    <link rel="stylesheet" type="text/css" href="CSS/Style.css"/>
+    <link rel="shortcut icon" href="Slike/favicon.ico" type="image/x-icon">
+    <title class="title">Početna</title>
+        
+</head>
+<body>
+    <div id='okvir'>
+        <header>
+            <logo><a href="index.html"><img src="Slike\logo.jpg" alt=""/></a></logo>
+            <div id="naslov">    
+                <h1>Gde otputovati</h1>
+                <h3>Sajt koji vam može dati ideju za vašu sledeću destinaciju</h3>
+            </div>
+            <div id="reg">
+                <div id="top">
+                    <a href="register.html" target="blanc">Register</a>
+                </div>
+                <div id="bot">
+                    <a href="https://www.facebook.com/" target="blanc"><img src="Slike/face.png" alt=""></a>
+                    <a href="https://www.instagram.com" target="blanc"><img src="Slike/instagram.jpg" alt=""></a>
+                    <a href="https://twitter.com" target="blanc"><img src="Slike/twitter.jpg" alt=""></a>
+                    <a href="https://www.youtube.com/" target="blanc"><img src="Slike/youtube.jpg" alt=""></a>
+                </div>
+            </div>
+            
+        </header>
+        <nav>
+            <ul class="navigacija">
+                <li><a class="aktivan" href="#">Početna</a></li>
+                <li>
+                    <a href="gradovi.html">Gradovi</a>
+                    <ul>
+                        <li><a href="gradovi.html#0">Pariz</a></li>
+                        <li><a href="gradovi.html#1">Rim</a></li>
+                        <li><a href="gradovi.html#2">Rio de Janeiro</a></li>
+                        <li><a href="gradovi.html#3">Moskva</a></li>
+                    </ul>
+                </li>
+                <li><a href="galerija.html">Galerija</a></li>
+                <li><a href="oAutoru.html">O autoru</a></li>
+            </ul>
+        </nav>
+
+        
+            <div class="carousel slide" id="slider" data-ride="carousel">
+                <div class="carousel-inner">
+                    <ol class="carousel-indicators">
+                        <li data-target="#slider" data-slide-to="0"></li>
+                        <li data-target="#slider" data-slide-to="1"></li>
+                        <li data-target="#slider" data-slide-to="2"></li>
+                    </ol>
+                    <div class="item active">
+                        <img src="Slike/slider/france.jpg" alt="">
+                        <div class="carousel-caption">
+                            <!-- <h3>Pariz, glavni grad Francuske</h3> -->
+                        </div>
+                    </div>
+                    <div class="item">
+                        <img src="Slike/slider/italy.jpg" alt="">
+                        <div class="carousel-caption">
+                            <!-- <h3>Pariz, glavni grad Francuske</h3> -->
+                        </div>
+                    </div>
+                    <div class="item">
+                        <img src="Slike/slider/tadz.jpg" alt="">
+                        <div class="carousel-caption">
+                            <!-- <h3>Pariz, glavni grad Francuske</h3> -->
+                        </div>
+                    </div>    
+                </div>
+                <a class="right carousel-control" href="#slider" data-slide="next">
+                    <span class="glyphicon glyphicon-chevron-right"></span>
+                </a>
+                <a class="left carousel-control" href="#slider" data-slide="prev">
+                    <span class="glyphicon glyphicon-chevron-left"></span>
+                </a>  
+            </div>
+        
+
+        <!-- <div id="slider">
+            <img src="Slike/slider/tadz.jpg"/>
+        </div> -->
+        <div id="sredinaPocetna">
+            <div class="pocetna">
+                <div class="first">
+                    <h1>Dobrodošli na Sajt!</h1>
+                    <h3>Na ovom sajtu upoznaćete se sa nekoliko najmaštovitijih mesta na svetu.</h3>
+                </div>
+                <div class="second">
+                    <div>
+                        <img src="Slike/priroda1.jpg" alt="slikaPriroda"/>
+                    </div>
+                    <div>
+                        <img src="Slike/priroda2.jpg" alt="slikaPriroda"/>
+                    </div>
+                    <div>
+                        <img src="Slike/priroda3.jpg" alt="slikaPriroda"/>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <footer>
+            <p>
+                <a href="index.html">Početna &nbsp;|</a>
+                <a href="gradovi.html">Gradovi&nbsp;|</a>
+                <!-- <a href="ostrva.html">Ostrva&nbsp;|</a> -->
+                <a href="galerija.html">Galerija&nbsp;|</a>
+                <a href="oAutoru.html">O autoru&nbsp;|</a>
+                <a href="Dokumentacija.pdf" target="blanc">Dokumentacija</a> 
+            </p>
+            <p>CopyRight 2018</p>
+        </footer>
+
+
+
+        
+        
+
+    </div>
+    <script src="http://code.jquery.com/jquery-2.2.4.min.js"
+    integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44="
+    crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" 
+            integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" 
+            crossorigin="anonymous"></script>
+    <script type="text/javascript" src="JS/js.js"></script>  
+    
+</body>
+</html>

@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="author" content="Filip Amanović"/>
+    <meta name="description" content="Strana za galeriju.">
+    <meta name="keywords" content="">
+    <link rel="stylesheet" type="text/css" href="CSS/Style.css"/>
+    <link rel="stylesheet" type="text/css" href="CSS/swipebox.css"/>
+    <link rel="shortcut icon" href="Slike/favicon.ico" type="image/x-icon">
+    <script src="JS/jquery-2.1.0.min.js" type="text/javascript"></script>
+    <script src="JS/jquery.swipebox.js" type="text/javascript"></script>
+    <script type="text/javascript">
+        ;( function( $ ) {
+        
+            $( '.swipebox' ).swipebox();
+        
+        } )( jQuery );
+        </script>
+    <title class="title">Galerija</title>
+
+</head>
+<body>
+    <div id='okvir'>
+        <header>
+            <logo><a href="index.html"><img src="Slike\logo.jpg" alt=""/></a></logo>
+            <div id="naslov">    
+                <h1>Galerija</h1>
+                <h3></h3>
+            </div>
+            <div id="reg">
+                <div id="top">
+                    <a href="register.html" target="blanc">Register</a>
+                </div>
+                <div id="bot">
+                    <a href="https://www.facebook.com/" target="blanc"><img src="Slike/face.png" alt=""></a>
+                    <a href="https://www.instagram.com" target="blanc"><img src="Slike/instagram.jpg" alt=""></a>
+                    <a href="https://twitter.com" target="blanc"><img src="Slike/twitter.jpg" alt=""></a>
+                    <a href="https://www.youtube.com/" target="blanc"><img src="Slike/youtube.jpg" alt=""></a>
+                </div>
+            </div>
+            
+        </header>
+        <nav>
+            <ul class="navigacija">
+                <li><a href="index.html">Početna</a></li>
+                <li>
+                    <a href="gradovi.html">Gradovi</a>
+                    <ul>
+                        <li><a href="#">Pariz</a></li>
+                        <li><a href="#">Rim</a></li>
+                        <li><a href="#">Rio de Janeiro</a></li>
+                        <li><a href="#">Moskva</a></li>
+                    </ul>
+                </li>
+                <!-- <li>
+                    <a href="ostrva.html">Ostrva</a>
+                    <ul>
+                        <li><a href="#">Ostrvo 1</a></li>
+                        <li><a href="#">Ostrvo 2</a></li>
+                        <li><a href="#">Ostrvo 3</a></li>
+                        <li><a href="#">Ostrvo 4</a></li>
+                        <li><a href="#">Ostrvo 4</a></li>
+                    </ul>
+                </li> -->
+                <li><a class="aktivan" href="galerija.html">Galerija</a></li>
+                <li><a href="oAutoru.html">O autoru</a></li>
+            </ul>
+        </nav>
+        <div class="gallery">
+            <a href="Slike/galery/slika9veca.jpg" class="swipebox" title="My Caption"><img src="Slike/galery/slika9manja.jpg" alt="slika"/></a>
+            <a href="Slike/galery/slika2veca.jpg" class="swipebox" title="My Caption"><img src="Slike/galery/slika2manja.jpg" alt="slika"/></a>
+            <a href="Slike/galery/slika3veca.jpg" class="swipebox" title="My Caption"><img src="Slike/galery/slika3manja.jpg" alt="slika"/></a>
+            <a href="Slike/galery/slika4veca.jpg" class="swipebox" title="My Caption"><img src="Slike/galery/slika4manja.jpg" alt="slika"/></a>
+            <a href="Slike/galery/slika5veca.jpg" class="swipebox" title="My Caption"><img src="Slike/galery/slika5manja.jpg" alt="slika"/></a>
+            <a href="Slike/galery/slika6veca.jpg" class="swipebox" title="My Caption"><img src="Slike/galery/slika6manja.jpg" alt="slika"/></a>
+            <a href="Slike/galery/slika7veca.jpg" class="swipebox" title="My Caption"><img src="Slike/galery/slika7manja.jpg" alt="slika"/></a>
+            <a href="Slike/galery/slika8veca.jpg" class="swipebox" title="My Caption"><img src="Slike/galery/slika8manja.jpg" alt="slika"/></a>
+            <a href="Slike/galery/slika1veca.jpg" class="swipebox" title="My Caption"><img src="Slike/galery/slika1manja.jpg" alt="slika"/></a>
+        </div>
+       
+        <footer>
+            <p>
+                <a href="index.html">Početna &nbsp;|</a>
+                <a href="gradovi.html">Gradovi&nbsp;|</a>
+                <!-- <a href="ostrva.html">Ostrva&nbsp;|</a> -->
+                <a href="galerija.html">Galerija&nbsp;|</a>
+                <a href="oAutoru.html">O autoru</a>
+            </p>
+            <p>CopyRight 2018</p>
+        </footer>
+    </div>
+    <script src="http://code.jquery.com/jquery-2.2.4.min.js"
+    integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44="
+    crossorigin="anonymous"></script>
+    <script type="text/javascript" src="JS/js.js"></script>  
+</body> 
+</html>

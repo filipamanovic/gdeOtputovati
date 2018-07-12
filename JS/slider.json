@@ -1,0 +1,14 @@
+[
+    {
+        "slika":"Slike/slider/france.jpg",
+        "alt":"slikaPariz"
+    },
+    {
+        "slika":"Slike/slider/italy.jpg",
+        "alt":"slikaItaly"
+    },
+    {
+        "slika":"Slike/slider/tadz.jpg",
+        "alt":"slikaTadz"
+    }
+]

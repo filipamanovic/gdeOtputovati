@@ -1,0 +1,138 @@
+[
+    {
+        "imeGrada":"Pariz",
+        "fs":
+        [
+            {
+                "slika":{
+                            "src":"Slike/deloviGrada/ajfel1.jpg",
+                            "alt":"ajfelovaKula1"
+                        },
+                "naslov":"Ajfelova Kula",
+                "glavniText":"Toranj je sagrađen na Marsovim poljima u Parizu i danas je znamenitost i simbol Pariza. Sagrađena je 1889. kao eksponat za Svetsku izložbu povodom proslave stogodišnjice francuske revolucije.",
+                "dodatakText":"Do 1930. godine je bila najveće zdanje na svetu sa svojih 300 metara visine. Ime je dobio po inženjeru koji ga je projektovao Gistavu Ajfelu. Danas je značajna turistička atrakcija sa preko 5.5 miliona posetilaca godišnje."
+            },
+            {
+                "slika":{
+                            "src":"Slike/deloviGrada/luvr1.jpg",
+                            "alt":"muzejLuvr1"
+                        },
+                "naslov":"Muzej Luvr",
+                "glavniText":"Luvr  je jedan od najvećih i najpoznatijih muzeja na svetu. Nalazi se na desnoj obali Sene u Parizu, u prvom arondismanu. U muzeju je izloženo skoro 35.000 predmeta.",
+                "dodatakText":"Ukupan broj predmeta koji pripadaju muzeju je 380.000. Luvr je najposećeniji muzej u svetu, koga radnim danima poseti u proseku 15.000 turista na dan, od čega su 65 % strani turisti.Muzej Luvr se nalazi u Palati Luvr (Palais du Louvre) koja je začeta izgradnjom tvrđave u kasnom 12. veku u vreme vladavine Filipa II."
+            },
+            {
+                "slika":{
+                            "src":"Slike/deloviGrada/notredame1.jpg",
+                            "alt":"notreDame"
+                        },
+                "naslov":"Notre Dame",
+                "glavniText":"Gradnja katedrale Notr Dam u Parizu započinje 1163, za vreme biskupa Mauricija, a dovršena je tek 1345. godine kao prvo remek delo gotičke umetnosti. Postavlja se pitanje..",
+                "dodatakText":"zašto je prva gotička katedrala sagrađena u Sen Deniu, a ne direktno u glavnom gradu Parizu. Pri tome treba znati da se Pariz tek u drugoj polovini 12. veka nametnuo kao glavni grad, dok je u prvoj polovini Sen Deni bio značajniji."
+            }   
+        ]
+
+    },
+    {
+        "imeGrada":"Rim",
+        "fs":
+        [
+            
+            {
+                "slika":{
+                            "src":"Slike/deloviGrada/koloseum1.jpg",
+                            "alt":"koloseum"
+                        },
+                "naslov":"Koloseum",
+                "glavniText":"Koloseum, izvorno nazvan „Flavijev amfiteatar“, je amfiteatar u Rimu. Izgrađen od betona i peska, on je najveći amfiteatar ikad izgrađen. Koloseum je lociran neposredno istočno od Rimskog foruma.",
+                "dodatakText":"Građevina je korišćena u drevnom Rimu kao mesto za javne spektakle. Ovi spektakli su varirali od duela gladijatora, gladijatora i životinja (medvedi, krokodili, lavovi itd.) do simulacije istorijskih bitaka i egzekucija. Zdanje su konstruisali carevi Flavijevske dinastije."
+            },
+            {
+                "slika":{
+                            "src":"Slike/deloviGrada/sikst1.jpg",
+                            "alt":"Sikstinska kapela"
+                        },
+                "naslov":"Sikstinska kapela",
+                "glavniText":"Sikstinska kapela je najpoznatija kapela u Apostolskoj palati, zvaničnoj rezidenciji papa u Vatikanu. Čuvena je po svojoj arhitekturi i fresko dekoraciji koju su radili najveći majstori renesanse.",
+                "dodatakText":"Oni su: Mikelanđelo, Rafael, Bernini i Botičeli. Pod patronatom pape Julija II, Mikelanđelo je od 1508. do 1512. oslikao 1100 m² tavanice Sikstinske kapele. Danas se ona smatra Mikelanđelovim najznačajnijim slikarskim dostignućem."
+            },
+            {
+                "slika":{
+                            "src":"Slike/deloviGrada/bazilika1.jpg",
+                            "alt":"Bazilika sv petra"
+                        },
+                "naslov":"Bazilika sv. Petra",
+                "glavniText":"Bazilika sv. Petra je vatikanska crkva izgrađena u stilu klasične renesanse, na mestu prethodne ranokršćanske bazilike. Prema istorijskim izvorima, prvo zdanje podignuto je na grobu sv. Petra.",
+                "dodatakText":"Smatra se jedinstvenom crkvom u hrišćanskom svetu, kao i najvažnijom od svih hrišćanskih crkava. Iznad groba sv. Petra, u 16. veku, sagrađena je prekrasna bazilika njemu u čast."
+            }   
+        ]
+    },
+    {
+        "imeGrada":"Rio de Janeiro",
+        "fs":
+        [
+            {
+                "slika":{
+                            "src":"Slike/deloviGrada/statua1.jpg",
+                            "alt":"statua u Riu"
+                        },
+                "naslov":"Statua Hrista",
+                "glavniText":"Statua Hrista je skulptura koja se nalazi na brdu Korkovadu pored Rio de Žaneira. Nalazi se na 709 metara nadmorske visine. Skulptura je visoka 38 metara, od čega 8 metara je samo postolje.",
+                "dodatakText":"Radovi su trajali pet godina, a svečano je otkrivena 12. oktobra 1931.Ideja o gradnji religioznog spomenika se prvi put pojavila 1859. godine. Predlog su dali otac Pedro Marija Bos i princeza Izabela. Ideja je opet uzeta u razmatranje 1921. godine, kada se približavala stogodišnjica nezavisnosti.."
+            },
+            {
+                "slika":{
+                            "src":"Slike/deloviGrada/marakana1.jpg",
+                            "alt":"slika karneval"
+                        },
+                "naslov":"Stadion Marakana",
+                "glavniText":"Stadion je svoje neslužbeno ime Marakana, dobio po istoimenoj četvrti u kojoj se nalazi, inače reč marakana predstavlja vrstu papagaja iz severnog Brazila.",
+                "dodatakText":"Do 1930. godine je bila najveće zdanje na svetu sa svojih 300 metara visine. Ime je dobio po inženjeru koji ga je projektovao Gistavu Ajfelu. Danas je značajna turistička atrakcija sa preko 5.5 miliona posetilaca godišnje."
+            },
+            {
+                "slika":{
+                            "src":"Slike/deloviGrada/karneval1.jpg",
+                            "alt":"ajfelovaKula1"
+                        },
+                "naslov":"Karneval u Riu",
+                "glavniText":"Karneval u Brazilu je tradicionalni festival koji se održava 40 dana uoči Uskrsa, pre početka uskršnjeg posta. U Brazilu postoje brojne regionalne varijante proslave karnevala..",
+                "dodatakText":"Glavni događaj karnevalskih proslava u Rio de Žaneiru su parade škola sambe. Škole sambe su udruženja građana, obično stanovnika gradske četvrti, koji zajednički pripremaju nastup. Dvanaest najboljih škola paradira na sambodromu u dva dana (nedelja i ponedeljak)."
+            }   
+        ]
+
+    },
+    {
+        "imeGrada":"Moskva",
+        "fs":
+        [
+            {
+                "slika":{
+                            "src":"Slike/deloviGrada/crvenitrg1.jpg",
+                            "alt":"crveni trg"
+                        },
+                "naslov":"Crveni trg",
+                "glavniText":"Crveni trg je najpoznatiji moskovski gradski trg. Trg odvaja Moskovski Kremlj, nekadašnju carsku, a današnju službenu rezidenciju ruskog predsednika, od stare istorijske trgovačke četvrti Kitaj-gorod.",
+                "dodatakText":"Kako se glavne moskovske ulice upravo odavde šire u svim smerovima, Crveni trg se često smatra središnjim moskovskim trgom i srcem cele Rusije. 1991. godine Crveni trg je uvršten na UNESKOv popis svetske baštine.."
+            },
+            {
+                "slika":{
+                            "src":"Slike/deloviGrada/teatar1.jpg",
+                            "alt":"boljsoj teatar"
+                        },
+                "naslov":"Boljsoj teatar",
+                "glavniText":"Istorijski teatar u Moskvi, koji je izgradio arhitekta Osip Bove, u kome se održavaju predstave baleta i opere. Boljšoj balet i Boljšoj opera se nalaze među najboljim baletskim i operskim pozorištima na svetu.",
+                "dodatakText":"Do 1930. godine je bila najveće zdanje na svetu sa svojih 300 metara visine. Ime je dobio po inženjeru koji ga je projektovao Gistavu Ajfelu. Danas je značajna turistička atrakcija sa preko 5.5 miliona posetilaca godišnje."
+            },
+            {
+                "slika":{
+                            "src":"Slike/deloviGrada/metro1.jpg",
+                            "alt":"moskovski metro"
+                        },
+                "naslov":"Moskovski metro",
+                "glavniText":"Toranj je sagrađen na Marsovim poljima u Parizu i danas je znamenitost i simbol Pariza. Sagrađena je 1889. kao eksponat za Svetsku izložbu povodom proslave stogodišnjice francuske revolucije.",
+                "dodatakText":"Do 1930. godine je bila najveće zdanje na svetu sa svojih 300 metara visine. Ime je dobio po inženjeru koji ga je projektovao Gistavu Ajfelu. Danas je značajna turistička atrakcija sa preko 5.5 miliona posetilaca godišnje."
+            }   
+        ]
+
+    }
+]
